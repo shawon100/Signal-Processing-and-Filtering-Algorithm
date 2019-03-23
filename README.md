@@ -2,6 +2,6 @@
 Signal Processing and Filtering Algorithm's Code in C++ <br>
 
 ```
-Similar Outputs of matlab Built-In-Function (Ex: movmean, movmedian, etc)
+It's outputs are similar to matlab Built-In-Function outputs  (Ex: movmean, movmedian, etc)
 
 ```
